@@ -1,1 +1,1 @@
-Pracctising Basic Js Concepts
+Practising Basic Js Concepts
